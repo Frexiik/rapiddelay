@@ -7,5 +7,7 @@
 
 # Credits 📢
 Made the client - Some Polish Developers
+
 Leaked the client - Frexiik
+
 Cracked the client - the owner xDD
